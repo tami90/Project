@@ -1,0 +1,208 @@
+body{
+	text-align:center;
+	background-color:#FF7F50;
+}
+@media screen and (max-width:350px){
+	body{
+		background-color:#DB9370;
+	}
+	
+}
+*{
+	box-sizing:border-box;
+}
+#naslov_pocetna, #naslov_proizvodi{
+	color:#262626;
+	font-size:46px;
+	letter-spacing:3px;
+}
+#naslov_onama{
+	color:#262626;
+	font-size:46px;
+	letter-spacing:3px;
+}
+#s1, #s2, #s3{
+	width:28%;
+	height:60%;
+}
+.glavni_text{
+	font-size:22;
+}
+#p_p{
+	width:20%;
+	font-size:28;
+	font-weight:bold;
+	margin:5% 40%;
+	letter-spacing:5px;
+}
+#p_p:hover{
+	background-color:#A52A2A;
+}
+.text2{
+	font-size:22;
+}
+#text3{
+	font-size:18;
+}
+#text4{
+	font-size:20;
+}
+#slika1, #slika2, #slika3, #aronija, #breskva, #visnja{
+	width:25%;
+	height:52%;
+}
+#slika4, #slika5{
+	width:30%;
+	height:60%;
+}
+#pekmezi{
+  text-align:center;
+  width: 40%; 
+  height:10%;
+  border: 2px dashed black;
+  margin:5% 30%;
+  background:#FF8247;
+  letter-spacing:5px;
+  text-transform:uppercase;
+
+}
+#pekmezi:hover{
+	background:#CD4F39;
+}
+#slatko{
+  text-align:center;
+  width: 40%; 
+  height:10%;
+  border: 2px dashed black;
+  margin:5% 30%;
+  background:#FF8247;
+  letter-spacing:5px;
+  text-transform:uppercase;
+
+}
+#slatko:hover{
+	background:#CD4F39;
+}
+#kompoti{
+  text-align:center;
+  width: 40%; 
+  height:10%;
+  border: 2px dashed black;
+  margin:5% 30%;
+  background:#FF8247;
+  letter-spacing:5px;
+  text-transform:uppercase;
+}
+#kompoti:hover{
+	background:#CD4F39;
+}
+#cenovnik{
+  text-align:center;
+  width: 40%; 
+  height:10%;
+  border: 2px dashed black;
+  margin:5% 30%;
+  background:#FF8247;
+  letter-spacing:10px;
+  text-transform:uppercase;
+  
+
+}
+#cenovnik:hover{
+	background:#EE6A50;
+}
+.klasa_cenovnik{
+  width:40%;
+  height:30%;
+  background:#F5CCB0;
+  margin-left: auto;
+  margin-right: auto;
+  padding:15px;
+}
+th, td{
+	width:60%;
+	height:25%;
+	border: 4px solid black;
+	font-size:18px;
+}
+	
+#ime, #mesto, #p_broj{
+	width:25%;
+	height:30px;
+}
+#adresa{
+	width:20%;
+	height:30px;
+}
+#broj{
+	height:30px;
+}
+#posalji{
+	font-size:16px;
+}
+#posalji:hover{
+	width:12%;
+	background:#FF8C69;
+}
+#forma1{
+	font-size:22px;
+}
+#proizvodi{
+	font-size:18px;
+}
+#text10{
+	font-size:24px;
+	font-style:italic;
+}
+#text11{
+  width:30%;
+  height:12%;
+  margin-left: auto;
+  margin-right: auto;
+  padding:15px;
+}
+#forma2{
+	font-size:26px;
+}
+#imeiprezime, #email, #predmet{
+	width:80%;
+	height:40px;
+	background-color:#FF7F50;
+	border-color:#424242;
+}
+#poruka{
+	width:80%;
+	height:80px;
+	background-color:#FF7F50;
+	border-color:#424242;
+}
+#posalji2{
+	width:80px;
+	height:30px;
+    margin-left:74%;
+	background-color:#636363;
+}
+#kontakt_p{
+	font-size:18px;
+	color:#171717;
+}
+#adresa_p{
+	text-transform:uppercase;
+	font-size:24px;
+}
+#kontaktirajtenas{
+	text-transform:uppercase;
+	font-size:26px;
+	letter-spacing:4px;
+}
+#lista1{
+	list-style-type:none;
+text-align: center;
+ padding: 5px;
+}
+.onama_text{
+	font-size:22px;
+}
+#misija, #vizija{
+	font-size:20px;
+}
